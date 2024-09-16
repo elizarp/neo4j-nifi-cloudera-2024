@@ -79,6 +79,11 @@ Este comando irá compilar o Apache NiFi e incluir o suporte a processadores de 
 - **EvaluateJsonPath**: Avalia os registros JSON extraídos e os transforma em atributos para o fluxo.
 - **Neo4j Data Ingestion**: Insere dados no Neo4j, criando nós para `App`, `Category`, `Review`, e seus respectivos relacionamentos.
 
+### Pastas e arquivos
+- **data**: Arquivos CSVs.
+- **flow**: Apache Nifi flow
+- **constraints**: Cypher para gerar constraints no banco Neo4j
+
 ## Licença
 
 Este projeto é distribuído sob a licença Apache 2.0.
