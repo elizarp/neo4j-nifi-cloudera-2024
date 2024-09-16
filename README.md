@@ -82,7 +82,3 @@ Este comando irá compilar o Apache NiFi e incluir o suporte a processadores de 
 ## Licença
 
 Este projeto é distribuído sob a licença Apache 2.0.
-
----
-
-Esse README pode ser adaptado conforme necessário para incluir mais detalhes específicos do fluxo ou da configuração do projeto.
