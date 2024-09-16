@@ -1,7 +1,3 @@
-Aqui está um exemplo de um `README.md` para o projeto de integração do **Apache NiFi com Neo4j** que você anexou:
-
----
-
 # Projeto de Integração Apache NiFi com Neo4j
 
 Este projeto utiliza o **Apache NiFi** para processar e integrar dados de arquivos CSV e JSON com um banco de dados Neo4j. Ele inclui fluxos de processamento de dados para inserção de informações de aplicativos e suas avaliações no Neo4j usando queries Cypher.
